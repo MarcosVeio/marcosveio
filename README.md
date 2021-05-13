@@ -1,4 +1,4 @@
-### Oii 👋
+### Hi, Welcome! 👋
 
 - 🔭 I’m currently working on at Mundo Infantil Store
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
