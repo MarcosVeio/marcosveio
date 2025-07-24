@@ -6,10 +6,10 @@ Seja bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará alguns dos pro
 
 Com experiência de 4 anos, atuo como full-stack pleno, resolvendo problemas legado, features, criação de interfaces e gestão ágil.
 
-- 🎓 Técnico Front-end
+- 🎓 Técnico full-stack
 - 💼 Atualmente trabalho com: React, Node, Typescript, React Native, Angular, Java
-- 🌱 Estudando: Angular, Java
-- 💡 Interesses: IA, Python, Flutter
+- 🌱 Estudando: Angular, Java, IA
+- 💡 Interesses: Python, Flutter
 - 🤝 Sempre aberto a colaborações em projetos interessantes!
 
 ## 🛠️ Tecnologias e Ferramentas
